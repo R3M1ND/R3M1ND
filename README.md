@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nadthanicha</h1>
+<h1 align="center">Hi 👋, I'm Khim</h1>
 <h3 align="left">👩🏻‍💻 About me:</h3>
 <p>I’m a Software Developer with hands-on experience building web applications using TypeScript and Angular at an intermediate level.
 I focus on writing clean, maintainable code and building scalable front-end architectures.
-
-Currently expanding my skill set by exploring React, JavaScript (ES6+), and Flutter, and continuously improving through real-world projects.</p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
